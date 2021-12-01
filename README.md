@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Kombai-alu-Sandokan, you can call me Kombai
-- 👀 I’m interested in everything that revolves around music
-- 🌱 I’m currently learning Machine Learning and Containers, blockchain deployement, graph analysis
-- 💞️ I’m looking to collaborate on any audio project
-- 📫 How to reach me : sandokan.alu.kombai@protonmail.com
+- 👋 Hi, I’m Alexa Vojkic, but you can call me Kombaï. 🇫🇷 🇷🇸 I speak english, french, spanish and serbian. 
+
+- 👀 I’m interested in everything that revolves around Music Industry and Programming.
+
+- 🌱 I’m currently exploring machine learning, blockchain development and graph analysis.
+
+- 💞️ I’m looking to collaborate in any interesting project, feel free to write me. 
+
+- 📫 How to reach me : alexa.it@protonmail.com. Twitter : @AlexaVojkic
 
 <!---
 Kombai-alu-Sandokan/Kombai-alu-Sandokan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
