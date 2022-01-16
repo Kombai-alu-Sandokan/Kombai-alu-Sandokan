@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexa Vojkic, but you can call me Kombaï. 🇫🇷 🇷🇸
 
-- 👀 I’m interested in everything that revolves around Music Industry and Programming.
+- 👀 I’m interested about Music Production and Programming.
 
 - 🌱 I’m currently exploring machine learning, blockchain development and graph analysis.
 
